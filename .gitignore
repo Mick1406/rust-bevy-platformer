@@ -1,7 +1,7 @@
-platformer/target
-platformer/crates/*/target
+/platformer/target
+/platformer/crates/*/target
 **/*.rs.bk
-platformer/Cargo.lock
+/platformer/Cargo.lock
 .cargo/config
 .cargo/config.toml
 /.vscode
